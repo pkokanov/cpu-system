@@ -1,4 +1,4 @@
-16 bit register processor done for a university assignment
+CPU with 16-bit registers developed in VHDL for a university assignment.
 
 Only a couple of basic instructions are implemented.
 
